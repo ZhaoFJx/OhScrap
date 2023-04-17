@@ -23,7 +23,7 @@
   * Recompile for 1.12.4
   * <OhScrap.dll> v2.2.1.79 --> v2.2.99.97
   * only major code changes are for localization
-  * OhScrap! window now hides when F2 is pressed
+  * OhScrap! windows are now afraid of `F2`
 * Localization
   * English
   * Simplified Chinese (简体中文) courtesy of [ZhaoFJx](https://github.com/ZhaoFJx)
